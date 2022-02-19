@@ -1,6 +1,5 @@
 streamlit==1.2.0
 numpy
-tensorflow
 opencv-python-headless
 classify
 scikit-image

@@ -1,2 +1,3 @@
-import sklearn  
-print('The scikit-learn version is {}.'.format(sklearn.__version__))
+
+import tensorflow as tf
+print(tf.__version__)
