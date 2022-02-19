@@ -1,5 +1,5 @@
 streamlit==1.2.0
-numpy==1.22.2
+numpy
 tensorflow==1.7.0
 opencv-python-headless==4.5.5
 classify
